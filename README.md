@@ -2,9 +2,11 @@
 
 My dotfiles for my xfce + i3 setup on gentoo.
 
-Custom aliases = 
+## Custom aliases = 
 
-1. walset = set wallpaper with feh and colors with pywal
+The Custom Aliases that are set in i3 config file:
+
+"walset" = set wallpaper with feh and colors with pywal
 
 ## Installation
 
