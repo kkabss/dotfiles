@@ -11,5 +11,5 @@ cp ~/.cache/wal/xfce-panel.css ~/.config/gtk-3.0/gtk.css
 # 4. Restart the panel to apply instantly
 xfce4-panel -r
 
-# 5. Optional: Restart notifications to apply color
+# 5. Restart notifications to apply color
 killall xfce4-notifyd 2>/dev/null
