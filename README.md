@@ -8,6 +8,12 @@ Custom aliases =
 
 ## Installation
 
+To install my dotfiles, first clone the repo, then run:
+
+ ```bash
+   cd dotfiles
+   ./install.sh
+ ```
 (WIP)
 
 ## Dependencies
