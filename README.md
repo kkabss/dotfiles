@@ -11,13 +11,11 @@ The Custom Aliases that are set in i3 config file:
 ## Installation
 
 To install my dotfiles, first clone the repo, then run:
-
+(Make sure you have Stow installed in your sistem!!!)
  ```bash
    cd dotfiles
-   ./install.sh
+   stow */
  ```
-(WIP)
-
 ## Dependencies
 
 (WIP)
