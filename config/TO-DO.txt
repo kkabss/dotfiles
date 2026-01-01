@@ -1,3 +1,0 @@
-1. Fazer um script que faz link automatico da dotfiles pras pastas/configs.
-
-2. Fazer um guia pra (não ironicamente) eu mesmo quando foir usar esse setup dnv

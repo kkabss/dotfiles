@@ -1,0 +1,5 @@
+1. Fazer um script que faz link automatico da dotfiles pras pastas/configs.
+
+2. Adicionar coisas do Gentoo aqui (Make.conf, meu @world set e etc)
+
+3. Fazer um guia pra (não ironicamente) eu mesmo quando foir usar esse setup dnv
