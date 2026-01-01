@@ -110,3 +110,10 @@ walset() {
     feh --bg-fill "$1"
     wal -i "$1"
 }
+
+dotpush() {
+    cd ~/dotfiles || return
+    git add .
+    git commit -m "$1"
+    git push -u origin main
+}
