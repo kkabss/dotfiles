@@ -1,0 +1,69 @@
+
+/* Main Panel Background */
+#panel-1,
+.xfce4-panel,
+#panel-2 {{
+    background-color: {background};
+    color: {foreground};
+    border: none;
+}}
+
+/* All Panel Buttons (Clock, Layout Switcher, etc) */
+#panel-1 button,
+#panel-2 button,
+.xfce4-panel button {{
+    background-image: none;
+    background-color: transparent;
+    color: {foreground};
+    border: none;
+}}
+
+/* Hover effect for buttons */
+#panel-1 button:hover,
+.xfce4-panel button:hover {{
+    background-color: {color1};
+    color: {color7};
+}}
+
+/* Tasklist (Active and Inactive windows) */
+#tasklist-button {{
+    background-color: transparent;
+    border-bottom: 2px solid transparent;
+}}
+
+#tasklist-button:checked,
+#tasklist-button:active {{
+    background-color: {color2};
+    color: {background};
+    border-bottom: 2px solid {color7};
+}}
+
+/* Whisker Menu & Generic Popups */
+#whiskermenu-window,
+.gtk-menu,
+menu {{
+    background-color: {background};
+    color: {foreground};
+    border: 1px solid {color1};
+}}
+
+menuitem:hover {{
+    background-color: {color1};
+    color: {foreground};
+}}
+
+/* System Tray / Status Notifier */
+#sn-button {{
+    padding: 0 4px;
+}}
+
+/* XFCE Notifications (xfce4-notifyd) */
+#notification-window {{
+    background-color: {background};
+    border: 2px solid {color1};
+    border-radius: 8px;
+}}
+
+#notification-window label {{
+    color: {foreground};
+}}

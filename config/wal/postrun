@@ -1,0 +1,4 @@
+#!/bin/sh
+xfce4-panel -r
+xfce4-notifyd --replace &
+
