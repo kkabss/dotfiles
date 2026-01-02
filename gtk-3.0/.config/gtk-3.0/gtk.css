@@ -3,8 +3,8 @@
 #panel-1,
 .xfce4-panel,
 #panel-2 {
-    background-color: #0D0E10;
-    color: #c2c2c3;
+    background-color: #09060c;
+    color: #c1c0c2;
     border: none;
 }
 
@@ -14,15 +14,15 @@
 .xfce4-panel button {
     background-image: none;
     background-color: transparent;
-    color: #c2c2c3;
+    color: #c1c0c2;
     border: none;
 }
 
 /* Hover effect for buttons */
 #panel-1 button:hover,
 .xfce4-panel button:hover {
-    background-color: #3E5162;
-    color: #c2c2c3;
+    background-color: #273466;
+    color: #c1c0c2;
 }
 
 /* Tasklist (Active and Inactive windows) */
@@ -33,23 +33,23 @@
 
 #tasklist-button:checked,
 #tasklist-button:active {
-    background-color: #475253;
-    color: #0D0E10;
-    border-bottom: 2px solid #c2c2c3;
+    background-color: #444547;
+    color: #09060c;
+    border-bottom: 2px solid #c1c0c2;
 }
 
 /* Whisker Menu & Generic Popups */
 #whiskermenu-window,
 .gtk-menu,
 menu {
-    background-color: #0D0E10;
-    color: #c2c2c3;
-    border: 1px solid #3E5162;
+    background-color: #09060c;
+    color: #c1c0c2;
+    border: 1px solid #273466;
 }
 
 menuitem:hover {
-    background-color: #3E5162;
-    color: #c2c2c3;
+    background-color: #273466;
+    color: #c1c0c2;
 }
 
 /* System Tray / Status Notifier */
@@ -59,11 +59,11 @@ menuitem:hover {
 
 /* XFCE Notifications (xfce4-notifyd) */
 #notification-window {
-    background-color: #0D0E10;
-    border: 2px solid #3E5162;
+    background-color: #09060c;
+    border: 2px solid #273466;
     border-radius: 8px;
 }
 
 #notification-window label {
-    color: #c2c2c3;
+    color: #c1c0c2;
 }
