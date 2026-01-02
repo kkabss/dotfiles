@@ -25,9 +25,13 @@ To install my dotfiles, first clone the repo, then run:
 ## Dependencies
 
 Shell: oh-my-zsh, zsh
+
 Wallpaper: feh
+
 Colors: pywal16 (guru repo)
+
 De/Wm: xfce4 i3 picom
+
 Dotfiles-link: GNU-Stow
 
 
