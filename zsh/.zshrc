@@ -104,7 +104,7 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias ff="fastfetch"
-alias ls="ls -a"
+alias lsa="ls -a"
 
 walset() {
     feh --bg-fill "$1"
