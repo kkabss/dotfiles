@@ -33,4 +33,37 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/kabs/Pictures/screenshot/Setup_wall.jpg" added="2026-01-02T02:13:00.915577Z" modified="2026-01-02T02:25:11.550843Z" visited="2026-01-02T02:13:00.915578Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2026-01-02T02:13:00.915582Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-02T02:25:11.550836Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kabs/Pictures/screenshot/setup_ff.jpg" added="2026-01-02T02:13:38.873870Z" modified="2026-01-02T02:25:14.729060Z" visited="2026-01-02T02:13:38.873871Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2026-01-02T02:13:38.873873Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-02T02:25:14.729052Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kabs/Pictures/screenshot/setup_overallapps.jpg" added="2026-01-02T02:23:11.943093Z" modified="2026-01-02T02:25:19.271274Z" visited="2026-01-02T02:23:11.943095Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2026-01-02T02:23:11.943099Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-02T02:25:19.271265Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
