@@ -1,0 +1,8 @@
+# Ignore local state and shared data
+**/.local/share/
+**/.local/state/
+**/.cache/
+
+# Ignore specific logs or large binaries
+*.log
+node_modules/
