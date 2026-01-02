@@ -2,11 +2,13 @@
 
 My dotfiles for my xfce + i3 setup on gentoo.
 
-## Custom aliases = 
+## Custom aliases 
 
 The Custom Aliases that are set in zsh config file:
 
+
 walset = set wallpaper with feh and colors with pywal.
+
 lsa = "ls -a"
 
 ## Installation
